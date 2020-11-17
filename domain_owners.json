@@ -8068,6 +8068,820 @@
 	{
 		"id"				 : 491,
 		"parent_id"			 : null,
+		"owner_name"		 : "Tapjoy, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.tapjoy.com",
+		"privacy_policy_url" : "https://www.tapjoy.com/legal/advertisers/#privacy-policy",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"tapjoy.com"
+		]
+	},
+	{
+		"id"				 : 492,
+		"parent_id"			 : null,
+		"owner_name"		 : "Accengage",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.accengage.com/",
+		"privacy_policy_url" : "https://www.accengage.com/privacy-policy/",
+		"notes"				 : null,
+		"country"			 : "EU",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"accengage.com"
+		]
+	},
+	{
+		"id"				 : 493,
+		"parent_id"			 : null,
+		"owner_name"		 : "Unity",
+		"aliases"		 	 : ["unity3d", "unityads"],
+		"homepage_url"		 : "https://unity.com/",
+		"privacy_policy_url" : "https://unity3d.com/es/legal/privacy-policy",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["game engine", "audience measurement"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"unity3d.com",
+			"unity.com"
+		]
+	},
+	{
+		"id"				 : 494,
+		"parent_id"			 : null,
+		"owner_name"		 : "Flurry, Inc.",
+		"aliases"		 	 : ["flurry analytics"],
+		"homepage_url"		 : "https://www.flurry.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["audience measurement"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"flurry.com"
+		]
+	},
+	{
+		"id"				 : 495,
+		"parent_id"			 : null,
+		"owner_name"		 : "Appsee, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.appsee.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["design optimization"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"appsee.com"
+		]
+	},
+	{
+		"id"				 : 496,
+		"parent_id"			 : 440,
+		"owner_name"		 : "MoPub",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.mopub.com/",
+		"privacy_policy_url" : "https://www.mopub.com/en/legal/privacy?lang=en)",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"mopub.com"
+		]
+	},
+	{
+		"id"				 : 497,
+		"parent_id"			 : null,
+		"owner_name"		 : "AdColony",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.adcolony.com/",
+		"privacy_policy_url" : "https://www.adcolony.com/privacy-policy/",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"adcolony.com"
+		]
+	},
+	{
+		"id"				 : 498,
+		"parent_id"			 : null,
+		"owner_name"		 : "RayJump",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : "reported as malware",
+		"country"			 : null,
+		"uses"				 : ["malware"],
+		"platforms"			 : [],
+		"domains"			 : [
+			"rayjump.com"
+		]
+	},
+	{
+		"id"				 : 499,
+		"parent_id"			 : null,
+		"owner_name"		 : "Branch Metrics, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://branch.io/",
+		"privacy_policy_url" : "https://branch.io/policies/#privacy",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"branch.io"
+		]
+	},
+	{
+		"id"				 : 500,
+		"parent_id"			 : null,
+		"owner_name"		 : "Mapbox, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.mapbox.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["location"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"mapbox.com"
+		]
+	},
+	{
+		"id"				 : 501,
+		"parent_id"			 : null,
+		"owner_name"		 : "AppFlood",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.appflood.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"appflood.com"
+		]
+	},
+	{
+		"id"				 : 502,
+		"parent_id"			 : null,
+		"owner_name"		 : "Appcoach",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.appcoachs.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "China",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"appcoachs.com"
+		]
+	},
+	{
+		"id"				 : 503,
+		"parent_id"			 : null,
+		"owner_name"		 : "MGID, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "https://www.mgid.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"mgid.com"
+		]
+	},
+	{
+		"id"				 : 504,
+		"parent_id"			 : 312,
+		"owner_name"		 : "HockeyApp",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["code"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"hockeyapp.net"
+		]
+	},
+	{
+		"id"				 : 505,
+		"parent_id"			 : null,
+		"owner_name"		 : "MobFox",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "Israel",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"mobfox.com"
+		]
+	},
+	{
+		"id"				 : 506,
+		"parent_id"			 : null,
+		"owner_name"		 : "OneSignal, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : "https://onesignal.com/privacy_policy",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"onesignal.com"
+		]
+	},
+	{
+		"id"				 : 507,
+		"parent_id"			 : 80,
+		"owner_name"		 : "DU Ad",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "Hong Kong",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"duapps.com"
+		]
+	},
+	{
+		"id"				 : 508,
+		"parent_id"			 : null,
+		"owner_name"		 : "Adtelligent Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"vertamedia.com"
+		]
+	},
+	{
+		"id"				 : 509,
+		"parent_id"			 : null,
+		"owner_name"		 : "AdinCube",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "United Kingdom",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"adincube.com"
+		]
+	},
+	{
+		"id"				 : 510,
+		"parent_id"			 : null,
+		"owner_name"		 : "ConsoliAds",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : "https://www.consoliads.com/privacy-policy/#:~:text=ConsoliAds%20recognises%20the%20importance%20of%20Privacy%20for%20its,the%20products%2C%20applications%2C%20services%2C%20websites%2C%20and%20joint%20ventures.",
+		"notes"				 : null,
+		"country"			 : "Singapore",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"consoliads.com"
+		]
+	},
+	{
+		"id"				 : 511,
+		"parent_id"			 : null,
+		"owner_name"		 : "Soomla, Inc.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"soom.la"
+		]
+	},
+	{
+		"id"				 : 512,
+		"parent_id"			 : null,
+		"owner_name"		 : "AdStack.",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"adstack.co",
+			"adstack.com"
+		]
+	},
+	{
+		"id"				 : 513,
+		"parent_id"			 : null,
+		"owner_name"		 : "ADGagaa",
+		"aliases"		 	 : [],
+		"homepage_url"		 : null,
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"adgagaa.com"
+		]
+	},
+	{
+		"id" : 514,
+		"parent_id" : null,
+		"owner_name" : "Batch",
+		"aliases" : [],
+		"homepage_url" : null,
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"batch.com"
+		]
+	},
+	{
+		"id" : 515,
+		"parent_id" : 252,
+		"owner_name" : "SuperSonic",
+		"aliases" : ["supersonic Ads"],
+		"homepage_url" : "www.ironsrc.com",
+		"privacy_policy_url" : "https://supersonic.com/privacy/",
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"supersonic.com",
+			"logs.supersonic.com"
+		]
+	},
+	{
+		"id" : 516,
+		"parent_id" : null,
+		"owner_name" : "Singular, Inc.",
+		"aliases" : ["Singular"],
+		"homepage_url" : "www.singular.net",
+		"privacy_policy_url" : "https://www.singular.net/privacy-policy/",
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising","analytics"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"singular.net",
+			"s2s.singular.net"
+		]
+	},
+	{
+		"id" : 517,
+		"parent_id" : null,
+		"owner_name" : "Tenjin",
+		"aliases" : [],
+		"homepage_url" : "tenjin.io",
+		"privacy_policy_url" : "https://www.tenjin.io/privacy/",
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising","analytics"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"tenjin.com",
+			"tenjin.io"
+		]
+	},
+	{
+		"id" : 518,
+		"parent_id" : null,
+		"owner_name" : "Smaato,Inc",
+		"aliases" : [],
+		"homepage_url" : "www.smaato.com",
+		"privacy_policy_url" : "https://www.smaato.com/privacy/",
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"smaato.net",
+			"smaato.com"
+		]
+	},
+	{
+		"id" : 519,
+		"parent_id" : null,
+		"owner_name" : "Tapjoy",
+		"aliases" : [],
+		"homepage_url" : "www.tapjoy.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"tapjoyads.com",
+			"tapjoy.com"
+		]
+	},
+	{
+		"id" : 520,
+		"parent_id" : null,
+		"owner_name" : "Game Analytics Ltd",
+		"aliases" : [],
+		"homepage_url" : "www.gameanalytics.com",
+		"privacy_policy_url" : "https://gameanalytics.com/privacy",
+		"notes" : null,
+		"country" : "UK",
+		"uses" : ["analytics"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"gameanalytics.com"
+		]
+	},
+	{
+		"id" : 521,
+		"parent_id" : null,
+		"owner_name" : "Oath Inc",
+		"aliases" : [],
+		"homepage_url" : "www.oath.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising", "marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"oath.com",
+			"oath.cloud"
+		]
+	},
+	{
+		"id" : 522,
+		"parent_id" : null,
+		"owner_name" : "Game of Whales Ltd.",
+		"aliases" : [],
+		"homepage_url" : "www.gameofwhales.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["gamification"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"gameofwhales.com"
+		]
+	},
+	{
+		"id" : 523,
+		"parent_id" : null,
+		"owner_name" : "Meitu Inc.",
+		"aliases" : [],
+		"homepage_url" : "www.meitu.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "CH",
+		"uses" : ["social media"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"meitu.com",
+			"meitudata.com"
+		]
+	},
+	{
+		"id" : 524,
+		"parent_id" : 542,
+		"owner_name" : "PubNative",
+		"aliases" : [],
+		"homepage_url" : "pubnative.net",
+		"privacy_policy_url" : "https://pubnative.net/privacy-notice/#:~:text=The%20data%20processing%20described%20in,as%20part%20of%20customer%20instructions.",
+		"notes" : null,
+		"country" : "DE",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"pubnative.net"
+		]
+	},
+	{
+		"id" : 525,
+		"parent_id" : null,
+		"owner_name" : "Digital Ocean, Inc.",
+		"aliases" : [],
+		"homepage_url" : "www.digitalocean.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["SaaS", "hosting"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"digitalocean.com",
+			"digitaloceanspaces.com"
+		]
+	},
+	{
+		"id" : 526,
+		"parent_id" : 541,
+		"owner_name" : "RevX",
+		"aliases" : [],
+		"homepage_url" : "www.revx.io",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "IN",
+		"uses" : ["advertising", "marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"revx.io",
+			"atomex.net"
+		]
+	},
+	{
+		"id" : 527,
+		"parent_id" : 44,
+		"owner_name" : "Alibaba Cloud US LLC",
+		"aliases" : [],
+		"homepage_url" : "www.alibabacloud.com",
+		"privacy_policy_url" : "https://www.alibabacloud.com/help/faq-detail/42425.htm",
+		"notes" : null,
+		"country" : "CH",
+		"uses" : ["hosting", "cloud"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"alibabacloud.com",
+			"scdn.net",
+			"growingio.com"
+		]
+	},
+	{
+		"id" : 528,
+		"parent_id" : null,
+		"owner_name" : "Yandex LLC",
+		"aliases" : [],
+		"homepage_url" : "www.yandex.ru",
+		"privacy_policy_url" : "https://yandex.com/legal/confidential/?lang=en",
+		"notes" : null,
+		"country" : "RU",
+		"uses" : ["general", "code"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"www.yandex.ru",
+			"yandex.net"
+		]
+	},
+	{
+		"id" : 529,
+		"parent_id" : 543,
+		"owner_name" : "Smadex SL",
+		"aliases" : [],
+		"homepage_url" : "smadex.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "ES",
+		"uses" : ["advertising", "marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"smadex.com"
+		]
+	},
+	{
+		"id" : 530,
+		"parent_id" : null,
+		"owner_name" : "Tapstream",
+		"aliases" : [],
+		"homepage_url" : "tapstream.com",
+		"privacy_policy_url" : "https://tapstream.com/legal/privacy-policy/",
+		"notes" : null,
+		"country" : "CA",
+		"uses" : ["marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"tapstream.com"
+		]
+	},
+	{
+		"id" : 531,
+		"parent_id" : null,
+		"owner_name" : "Endpoint",
+		"aliases" : [],
+		"homepage_url" : "www.endpoint.pt",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "PT",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"endpoint.pt",
+			"myendpoint.io"
+		]
+	},
+	{
+		"id" : 532,
+		"parent_id" : null,
+		"owner_name" : "Button, Inc.",
+		"aliases" : [],
+		"homepage_url" : "www.usebutton.com",
+		"privacy_policy_url" : "https://www.usebutton.com/privacy-policy",
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"usebutton.com"
+		]
+	},
+	{
+		"id" : 533,
+		"parent_id" : 198,
+		"owner_name" : "AMP",
+		"aliases" : [],
+		"homepage_url" : "amp.dev",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["code"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"amp.dev",
+			"ampproject.org"
+		]
+	},
+	{
+		"id" : 534,
+		"parent_id" : null,
+		"owner_name" : "LifeStreet",
+		"aliases" : [],
+		"homepage_url" : "lifestreet.com/company/",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising", "marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"lifestreet.com/company/",
+			"lfstmedia.com"
+		]
+	},
+	{
+		"id" : 535,
+		"parent_id" : null,
+		"owner_name" : "Arkose Labs",
+		"aliases" : ["FunCaptcha", "Swipeads"],
+		"homepage_url" : "www.arkoselabs.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["security"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"arkoselabs.com",
+			"funcaptcha.com"
+		]
+	},
+	{
+		"id" : 536,
+		"parent_id" : 318,
+		"owner_name" : "Pocket",
+		"aliases" : [],
+		"homepage_url" : "getpocket.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["general"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"getpocket.com"
+		]
+	},
+	{
+		"id" : 537,
+		"parent_id" : 540,
+		"owner_name" : "Indeed, Inc.",
+		"aliases" : [],
+		"homepage_url" : "www.indeed.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["advertising"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"indeed.com"
+		]
+	},
+	{
+		"id" : 538,
+		"parent_id" : null,
+		"owner_name" : "Intercom, Inc.",
+		"aliases" : [],
+		"homepage_url" : "www.intercom.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "US",
+		"uses" : ["marketing"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"intercom.com"
+		]
+	},
+	{
+		"id" : 539,
+		"parent_id" : null,
+		"owner_name" : "Hotjar",
+		"aliases" : [],
+		"homepage_url" : "www.hotjar.com",
+		"privacy_policy_url" : null,
+		"notes" : null,
+		"country" : "AU",
+		"uses" : ["analytics"],
+		"platforms" : ["mobile"],
+		"domains" : [
+			"hotjar.com",
+			"hotjar.io"
+		]
+	},
+	{
+		"id"				 : 540,
+		"parent_id"			 : null,
+		"owner_name"		 : "Recruit",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "www.recruit.jp",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "JP",
+		"uses"				 : ["human resources"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"recruit.jp"
+		]
+	},
+	{
+		"id"				 : 541,
+		"parent_id"			 : null,
+		"owner_name"		 : "Affle",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "www.affle.com",
+		"privacy_policy_url" : "https://affle.com/privacy-policy",
+		"notes"				 : null,
+		"country"			 : "IN",
+		"uses"				 : ["analytics", "marketing", "advertising"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"www.affle.com"
+		]
+	},
+	{
+		"id"				 : 542,
+		"parent_id"			 : null,
+		"owner_name"		 : "Media and Games Invest plc",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "media-and-games-invest.com/",
+		"privacy_policy_url" : null,
+		"notes"				 : null,
+		"country"			 : "MT",
+		"uses"				 : ["gaming"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"media-and-games-invest.com"
+		]
+	},
+	{
+		"id"				 : 543,
+		"parent_id"			 : null,
+		"owner_name"		 : "Entravision Communications Corporation",
+		"aliases"		 	 : [],
+		"homepage_url"		 : "www.entravision.com",
+		"privacy_policy_url" : "https://www.entravision.com/privacy-policy/",
+		"notes"				 : null,
+		"country"			 : "US",
+		"uses"				 : ["advertising", "marketing"],
+		"platforms"			 : ["mobile"],
+		"domains"			 : [
+			"www.entravision.com"
+		]
+	},
+	{
+		"id"				 : 544,
+		"parent_id"			 : null,
 		"owner_name"		 : "Kaffnet",
 		"aliases"		 	 : [],
 		"homepage_url"		 : "",

@@ -85,7 +85,7 @@ This list was originally produced and is maintained by Timothy Libert, if you ar
 
 Information on mobile domains was produced by Van Kleek, Licardi, Binn, Zhao, Weitzner, and Shadbolt.  Please cite ["Better the Devil You Know: Exposing the Data Sharing Practices of Smartphone Apps"](https://dl.acm.org/citation.cfm?id=3025556).
 
-New 50 entries on mobile-related third-party services were produced by Guamán D.S., Del Álamo J.M., Caiza J.C, as part of their work intitled "GDPR compliance assessment for cross-border personal data transfers in Android apps". This is under peer-review process. 
+New 284 entries on mobile-related third-party services were produced by Guamán D.S., Del Álamo J.M., Caiza J.C, as part of their work intitled GDPR compliance assessment for cross-border personal data transfers in Android apps. "IEEE Access", v. 9 ; pp. 15961-15982. ISSN 2169-3536. https://doi.org/10.1109/ACCESS.2021.3053130. 
 
 Those making significant contributions may have their papers added here in the future.  The goal is for this project to be a community resource as well as a means to share recognition of contributor work.
 
